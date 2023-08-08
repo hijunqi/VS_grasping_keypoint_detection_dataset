@@ -18,9 +18,9 @@ README.md - Overview of the dataset structure and contents
 ## Downloading the Dataset
 The dataset can be downloaded from this link:
 
-real-world dataset (4.3 GB): https://drive.google.com/file/d/1zXzdb9VU3Jd43A_JNDlNcnlDBsdwDeQ3/view?usp=sharing
+real-world dataset (4 GB): https://drive.google.com/file/d/1zXzdb9VU3Jd43A_JNDlNcnlDBsdwDeQ3/view?usp=sharing
 
-Synthetic dataset (8.9 GB): https://drive.google.com/file/d/1zYUTNALDiu9w9Q6_0QWGeRMdOM9KbuSw/view?usp=sharing
+Synthetic dataset (8.3 GB): https://drive.google.com/file/d/1zYUTNALDiu9w9Q6_0QWGeRMdOM9KbuSw/view?usp=sharing
 
 Please cite our paper if you use this dataset in your work.
 
