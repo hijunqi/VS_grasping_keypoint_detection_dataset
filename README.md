@@ -1,6 +1,6 @@
 # VS_grasping_keypoint_detection_dataset
 
-This dataset is in COCO format for robotic iamge-based visual servoing (IBVS) grasping using keypoint detection. It contains real-world samples (6 categories with 1,248 images) and synthetic samples (6 categories with 9,288 images) generated using domain randomization in the Unity 3D engine.
+This dataset is in COCO format for robotic image-based visual servoing (IBVS) grasping using keypoint detection. It contains real-world samples (6 categories with 1,248 images) and synthetic samples (6 categories with 9,288 images) generated using domain randomization in the Unity 3D engine.
 
 ## Dataset Structure
 The dataset is organized into the following structure:
