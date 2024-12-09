@@ -22,8 +22,5 @@ real-world dataset (4 GB): https://drive.google.com/file/d/1zXzdb9VU3Jd43A_JNDlN
 
 Synthetic dataset (8.3 GB): https://drive.google.com/file/d/1zYUTNALDiu9w9Q6_0QWGeRMdOM9KbuSw/view?usp=sharing
 
-## Demonstration video of the grasping process is available at
-https://youtu.be/3rb1im8xIxo
 
-Please cite our paper if you use this dataset in your work.
 
